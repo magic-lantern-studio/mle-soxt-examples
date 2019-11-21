@@ -3,6 +3,6 @@ Coin3D examples using the SoXt GUI
 
 The coin3d-soxt-examples project provides examples for Open Inventor programming using the Coin 3D SDK and SoXt toolkit.
 
-The Coin 3D library can be found on Sourceforge in the [coin3d project](https://sourceforge.net/projects/coin3d/)
+The Coin 3D library can be found on Github in the [mle-coin3d project](https://github.com/coin3d/mle-coin3d)
 
-The Coin SoXt library is also located on Sourceforce under the [coin3d-soxt project](https://sourceforge.net/projects/coin3d-soxt/).
+The Coin SoXt library is also located on Githyb under the [mle-SoXt project](https://github.com/coin3d/mle-SoXt).
