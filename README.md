@@ -8,7 +8,7 @@ Coin 3D libraries.
 A more comprehensive collection of examples may be found at [ivexamples](https://github.com/coin3d/ivexamples), which
 are kept up to date with the latest Coin and SoXt technology.
 
-# Magic Lantern Dependencies
+## Magic Lantern Dependencies
 
 The Coin 3D library can be found on Github in the [mle-coin3d project](https://github.com/coin3d/mle-coin3d)
 
