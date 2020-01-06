@@ -9,6 +9,6 @@ AM_INIT_AUTOMAKE()
 
 AC_PROG_CXX
 
-AC_CONFIG_FILES(Makefile src/Makefile src/HelloCone/Makefile)
+AC_CONFIG_FILES(Makefile src/Makefile src/HelloCone/Makefile src/Text2D/Makefile)
 AC_OUTPUT
 

@@ -1,2 +1,2 @@
-SUBDIRS=HelloCone
+SUBDIRS=HelloCone Text2D
 
