@@ -1,7 +1,7 @@
-# coin3d-soxt-examples
+# mle-soxt-examples
 Coin3D examples using the SoXt GUI
 
-The coin3d-soxt-examples project provides examples for Open Inventor programming using the Coin 3D SDK and SoXt toolkit.
+The mle-soxt-examples project provides examples for Open Inventor programming using the Coin 3D SDK and SoXt toolkit.
 These examples were tested against older versions of Coin and SoXt and may not be relavent to the current state of the
 Coin 3D libraries.
 
