@@ -10,6 +10,6 @@ are kept up to date with the latest Coin and SoXt technology.
 
 ## Magic Lantern Dependencies
 
-The Coin 3D library can be found on Github in the [mle-coin3d project](https://github.com/coin3d/mle-coin3d)
+The Coin 3D library can be found on Github in the [coin project](https://github.com/magic-lantern-studio/coin)
 
-The Coin SoXt library is also located on Github under the [mle-SoXt project](https://github.com/coin3d/mle-SoXt).
+The Coin SoXt library is also located on Github under the [soxt project](https://github.com/magic-lantern-studio/soxt).
